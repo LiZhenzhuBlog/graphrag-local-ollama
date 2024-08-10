@@ -125,7 +125,7 @@ umap:
   enabled: false # if true, will generate UMAP embeddings for nodes
 
 snapshots:
-  graphml: yes
+  graphml: true
   raw_entities: yes
   top_level_nodes: yes
 
